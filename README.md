@@ -16,18 +16,19 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drug-advisor.git
+   git clone https://github.com/yourusername/Drug_Advisor_using_Machine_Learning.git
    cd drug-advisor
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install Libraries:
+  
+   - Pandas
+   - NumPy
+   - Scikit-Learn
 
 3. Run the Flask application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 4. Open your web browser and navigate to `http://localhost:5000` to use the Drug Advisor web application.
@@ -41,25 +42,11 @@ To run this project locally, follow these steps:
 - Pandas
 - Scikit-learn
 
-## Files Structure
-```
-├── app.py
-├── requirements.txt
-├── datasets/
-│   ├── symtoms_df.csv
-│   ├── precautions_df.csv
-│   ├── workout_df.csv
-│   ├── description.csv
-│   ├── medications.csv
-│   └── diets.csv
-└── models/
-    └── svc.pkl
-```
 
 ## Usage
 1. Launch the Flask application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 2. Open your web browser and go to `http://localhost:5000`.
