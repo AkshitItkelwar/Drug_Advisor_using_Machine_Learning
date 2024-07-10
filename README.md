@@ -42,6 +42,9 @@ To run this project locally, follow these steps:
 - Pandas
 - Scikit-learn
 
+## Screenshots- 
+<img width="1470" alt="Screenshot 2024-05-13 at 9 27 45 PM" src="https://github.com/jatinbaheti07/Drug_Advisor_using_Machine_Learning/blob/master/screenshot/Screenshot%20(10).png">
+
 
 ## Usage
 1. Launch the Flask application:
